@@ -1,5 +1,5 @@
 module.exports = {
-  childrenAge: [2, 0, 5, 8, 12, 17, 13, 7, 10],
+  childrenAge: ["2", "1", "5", "8", "12", "17", "13", "7", "10","101"],
   mailList: [
     "robson@rocketseat.com",
     "fulano@gmail.com",
